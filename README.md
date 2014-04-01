@@ -1,4 +1,13 @@
-resume
-======
+David Sivocha
+================
 
-An Online Markdown version of my Resume.
+david@sivocha.com | 
+[github](https://github.com/davidsivocha) | 
+[twitter](https://twitter.com/daelach) | 
+[personal blog](http://sivocha.com)
+
+### Tools
+
+### Experience
+
+### For Fun
