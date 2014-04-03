@@ -39,3 +39,5 @@ I worked with them in their Sales Department, to build a new Sales Agent Managem
 My role also includes day to day technical support.
 
 ### For Fun
+
+In my spare time, I am an avid amateur StarCraft 2 Shoutcaster and I enjoy streaming and commentating on online games through my [TwitchTV Account](http://twitch.tv/daelach)
