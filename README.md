@@ -41,3 +41,5 @@ My role also includes day to day technical support.
 ### For Fun
 
 In my spare time, I am an avid amateur StarCraft 2 Shoutcaster and I enjoy streaming and commentating on online games through my [TwitchTV Account](http://twitch.tv/daelach)
+
+You can also find examples of my StarCraft 2 Shoutcasting on my [Youtube Channel](http://youtube.com/daelach)
