@@ -4,7 +4,8 @@ David Sivocha
 david@sivocha.com | 
 [github](https://github.com/davidsivocha) | 
 [twitter](https://twitter.com/daelach) | 
-[personal blog](http://sivocha.com)
+[personal blog](http://sivocha.com) |
+[projects](https://github.com/davidsivocha/resume/projects.md)
 
 ### Tools
 
