@@ -9,9 +9,9 @@ Most of the projects that are contained in this list also make use of the [Boots
 
 Code Share is a Laravel 4 based application that allows users to post and share code snippets online. It supports user management and the ability to associate user accounts with the user that posted it. 
 
--[Laravel 4]()
--[Django]()
--[Ruby on Rails]()
+- [Laravel 4]()
+- [Django]()
+- [Ruby on Rails]()
 
 ##[Node Multi Auth]()
 *NodeJS*
@@ -37,17 +37,17 @@ Angular Comments is design to be an integration of Angular JS in a Laravel 4 Par
 ##Ribbit
 *Laravel 4, Django, Ruby on Rails, Meteor*
 
--[Laravel 4]()
--[Django]()
--[Ruby on Rails]()
--[Meteor]()
+- [Laravel 4]()
+- [Django]()
+- [Ruby on Rails]()
+- [Meteor]()
 
 ##News Site
 *Laravel 4, Ruby on Rails, Django*
 
--[Laravel 4]()
--[Django]()
--[Ruby on Rails]()
+- [Laravel 4]()
+- [Django]()
+- [Ruby on Rails]()
 
 ##[Static Blog Generator]()
 *Flask*
@@ -55,23 +55,23 @@ Angular Comments is design to be an integration of Angular JS in a Laravel 4 Par
 ##Bullet
 *Django, Laravel 4, Ruby on Rails*
 
--[Laravel 4]()
--[Django]()
--[Ruby on Rails]()
+- [Laravel 4]()
+- [Django]()
+- [Ruby on Rails]()
 
 ##Img-Share
 *Laravel 4, Django, Ruby on Rails*
 
--[Laravel 4]()
--[Django]()
--[Ruby on Rails]()
+- [Laravel 4]()
+- [Django]()
+- [Ruby on Rails]()
 
 ##Buggy-Bugtraq
 *Laravel 4, Django, Ruby on Rails*
 
--[Laravel 4]()
--[Django]()
--[Ruby on Rails]()
+- [Laravel 4]()
+- [Django]()
+- [Ruby on Rails]()
 
 ##[Connect4]()
 *Socket.IO, NodeJS, ExpressJS*
@@ -82,9 +82,9 @@ The Application sends and receives data by listening for the signals sent from e
 ##Customer Manager
 *Laravel 4, Django, Ruby on Rails*
 
--[Laravel 4]()
--[Django]()
--[Ruby on Rails]()
+- [Laravel 4]()
+- [Django]()
+- [Ruby on Rails]()
 
 ##[Property Manager]()
 *Laravel 4*
@@ -95,9 +95,9 @@ The Application sends and receives data by listening for the signals sent from e
 ##Project Manager
 *Ruby on Rails, Laravel 4, Django*
 
--[Laravel 4]()
--[Django]()
--[Ruby on Rails]()
+- [Laravel 4]()
+- [Django]()
+- [Ruby on Rails]()
 
 ##[Secret Octo Nemesis]()
 *Django*
@@ -108,9 +108,9 @@ The Application sends and receives data by listening for the signals sent from e
 ##Instapics
 *Laravel 4, Django, Ruby on Rails*
 
--[Laravel 4]()
--[Django]()
--[Ruby on Rails]()
+- [Laravel 4]()
+- [Django]()
+- [Ruby on Rails]()
 
 ##[Slimblog]()
 *Slim PHP Framework*
