@@ -2,7 +2,7 @@ Projects
 ===============================
 This is a full breakdown of Projects that I have worked on, and the technologies used. Where possible I have included links to the live projects, though some cannot be included for NDA reasons. Some Projects have been built in multiple languages and for these I have included the links for each repository that is applicable. 
 
-Most of the projects that are contained in this list also make use of the [Bootstrap]() and [jQuery]() frameworks.
+Most of the projects that are contained in this list also make use of the [Bootstrap](http://getbootstrap.com) and [jQuery](http://jquery.com) frameworks.
 
 ##Code Share
 **Technologies Used:** *Laravel 4, Django, Ruby on Rails*
@@ -30,6 +30,14 @@ Angular Comments is design to be an integration of Angular JS in a Laravel 4 Par
 
 ##[Build a Brief]()
 **Technologies Used:** *Angular JS, MongoDB, ExpressJS, NodeJS*
+
+Build a brief is an online utility created to help clients better understand the web projects that they want to persue, as well as giving the business a better overview of the client requirements. 
+
+This application builds PDFs and Base quotes for clients containing a generalised specification of what the client wants. These are then downloadable by the client to take to a development agency, or they can send this directly to [Libero Net](http://liberonet.co.uk) where it can be reviewed. 
+
+This application was built with the intention of helping to save time, as a large number of people who are looking for web development work or design work, don't have a clear view on the type of Project that they wish to persue.
+
+Built using ExpressJS on NodeJS, with AngularJS as a front end, the site makes use of smooth control forms that don't require a page refresh, the site will also store answers in a database format that allows a hot link to be created to a brief, for recovery at a later date.
 
 ##[SEO Toolbox]()
 **Technologies Used:** *Laravel 4*
@@ -194,41 +202,47 @@ The exchange produces live Market Graphs for the users of the site and supports 
 ##Wine Exchange
 **Technologies Used:** *Magento*
 
+The Wine Exchange was a project that involved creating several large custom plugins and adapting plugins for Magento to turn it from an Online eCommerce Platform into a Wine Trading application.
+
 ##[Movie Tracker]()
 **Technologies Used:** *Ember JS*
 
-##[StoreFeeder PrestaShop API]()
+Movie Tracker is an EmberJS based application that tracks your Movie Collection and allows you to rate and mark them as watched.
+
+It supports a ratings system as well as the ability to categorise films and actors, and search them. This data is all stored in a MongoDB database.
+
+##[StoreFeeder PrestaShop API](https://github.com/davidsivocha/storefeeder-prestashop-api)
 **Technologies Used:** *PrestaShop*
 
-An implementation of an API for the [StoreFeeder]() Sales Channel Management System. Works with PrestaShop Versions v1.5+. It's used for sending Sales and Client Data to StoreFeeder and receives back the Shipping Data and Stock Balances.
+An implementation of an API for the [StoreFeeder](http://www.storefeeder.com) Sales Channel Management System. Works with PrestaShop Versions v1.5+. It's used for sending Sales and Client Data to StoreFeeder and receives back the Shipping Data and Stock Balances.
 
 ##[Photo Gallery]()
 **Technologies Used:** *Laravel 4*
 
-##[Custom PHP Exceptions]()
+##[Custom PHP Exceptions](https://github.com/davidsivocha/custom-php-exceptions)
 **Technologies Used:** *PHP*
 
 An interface for PHP that allows you to create your own custom exceptions for errors in applications so that you can create Application specific Exception messages. 
 
 I would however advise that you stick to default exceptions where available. 
 
-##[Confide Authentication]()
+##[Confide Authentication](https://github.com/davidsivocha/confide-auth)
 **Technologies Used:** *Laravel 4*
 
-##[News Aggregator]()
+##[News Aggregator](https://github.com/davidsivocha/news-aggregator)
 **Technologies Used:** *Laravel 4*
 
 Experiment with Laravel 4 into reading and Parsing ATOM feeds for Aggregating News Feeds and displaying the results accoring to categories. 
 
 Has a very bare admin management system to allow the user to add new feeds and remove old feeds to the lists. Makes use of a Modified Laravel package to manage the reading of the Feeds into the system!
 
-##[Google Material Design Inputs]()
+##[Google Material Design Inputs](https://github.com/davidsivocha/google-material-design-inputs)
 **Technologies Used:** *CSS*
 
 Experimentation into Googles Material Design Philosophy. For more information on Material Design, visit the [Google Material Design Information pages](http://www.google.co.uk/design/spec/material-design/introduction.html)
 
-##[Sivocha Website]()
+##[Sivocha Website](http://sivocha.com)
 **Technologies Used:** *WordPress*
 
-##[ThreeHive Website]()
+##[ThreeHive Website](http://threehive.co.uk)
 **Technologies Used:** *WordPress*
