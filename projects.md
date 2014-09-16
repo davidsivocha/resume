@@ -13,17 +13,17 @@ Code Share is a Laravel 4 based application that allows users to post and share 
 - [Django]()
 - [Ruby on Rails]()
 
-##[Node Multi Auth]()
+##[Node Multi Auth](https://github.com/davidsivocha/node-multi-auth)
 **Technologies Used:** *NodeJS*
 
 Node Multi Auth is an Authentication System built for NodeJS that interfaces with Various OAuth proviers, like Facebook, Google +, Twitter etc as well as supporting it's own form of account Authentication. It can even multi-link accounts, so that you can sign into One account using all 4 services.
 
-##[Mean ToDo]()
+##[Mean ToDo](https://github.com/davidsivocha/mean-todo)
 **Technologies Used:** *MongoDB, ExpressJS, AngularJS, NodeJS*
 
 Built on the MEAN Stack, MeanToDo is a simple browser based Todo Application.
 
-##[[Angular Comments](https://github.com/davidsivocha/angular-comments)]()
+##[Angular Comments](https://github.com/davidsivocha/angular-comments)
 **Technologies Used:** *AngularJS, Laravel 4*
 
 Angular Comments is design to be an integration of Angular JS in a Laravel 4 Partial to provide RealTime commenting on a web page. The application allows a user to post a comment to the site without forcing page redirects.
@@ -73,7 +73,7 @@ Angular Comments is design to be an integration of Angular JS in a Laravel 4 Par
 - [Django]()
 - [Ruby on Rails]()
 
-##[Connect4]()
+##[Connect4](https://github.com/davidsivocha/connect4)
 **Technologies Used:** *Socket.IO, NodeJS, ExpressJS*
 
 Connect4 is an implementation of the game Connect Four for use in Browsers. When a user connects to the site it generates them a Custom Game URL which they can then share with a friend. When their friend connects they can now play Connect Four against one another.
@@ -90,8 +90,12 @@ The Application sends and receives data by listening for the signals sent from e
 ##[Property Manager]()
 **Technologies Used:** *Laravel 4*
 
-##[MVC Node]()
-**Technologies Used:** *NodeJS*
+##[MVC Node](https://github.com/davidsivocha/mvc-node)
+**Technologies Used:** *NodeJS, ExpressJS*
+
+A Web application Experiment with NodeJS into creating an MVC based application using NodeJS' Express Framework.
+
+Makes use of TDD principles using the Jasmine testing framework.
 
 ##Project Manager
 **Technologies Used:** *Ruby on Rails, Laravel 4, Django*
@@ -125,10 +129,10 @@ The Application sends and receives data by listening for the signals sent from e
 ##[North American Octo Hipster]()
 **Technologies Used:** *NodeJS*
 
-##[LiberoNet](http://liberonet.co.uk)
+##[Libero Net](http://liberonet.co.uk)
 **Technologies Used:** *WordPress*
 
-I worked on the Redesign of the LiberoNet Site implementing some custom templates and functionality for the view of the site. This functionality included a custom contact form plugin that passes data into custom WordPress posts that allows us to use WordPress as a rudimentary CRM system. 
+I worked on the Redesign of the [Libero Net](http://liberonet.co.uk) Site implementing some custom templates and functionality for the view of the site. This functionality included a custom contact form plugin that passes data into custom WordPress posts that allows us to use WordPress as a rudimentary CRM system. 
 
 We also built our own custom portfolio extensions. 
 
@@ -139,10 +143,14 @@ We also built our own custom portfolio extensions.
 **Technologies Used:** *Django*
 
 ##Woo Commerce Licensing Extension
-**Technologies Used:** *Wordpress*
+**Technologies Used:** *WordPress*
 
 ##Libero Slider
 **Technologies Used:** *WordPress*
+
+The Libero Slider is a custom Plugin for WordPress that implements the Bootstrap carousel and is included as part of a default set of packages that [Libero Net](http://liberonet.co.uk) can provide to clients to give their WordPress site functionality.
+
+It features a panel in the Admin that allows the End user to set the slide type, picture and content as well as any Meta Information for the Slide, such as Image ALT tags and Title tags.
 
 ##Quote Generation Application
 **Technologies Used:** *Laravel 4*
@@ -153,7 +161,7 @@ Using the Laravel 4 framework with Bootstrap to present a clean and functional m
 
 Each quote can also be exported to their own individual PDF files that can be downloaded and printed, featuring Auto Generated Graphs and Charts showing the stats from the projected build in an easy to digest format.
 
-##Wordpress Application Forms
+##WordPress Application Forms
 **Technologies Used:** *WordPress*
 
 Application forms Plugin built into WordPress. The application forms allow users to login to amend and edit the application forms that they are using. Then from an admin perspective these can be exported and printed in bulk or viewed and edited online. 
@@ -162,6 +170,12 @@ This plugin is built to work in WordPress v3.9 upwards and supports the Bootstra
 
 ##[Sports Predictor](https://www.thesportspredictor.com/#/)
 **Technologies Used:** *AngularJS*
+
+The Sports Predictor is an online Prediction Engine that [Libero Net](http://liberonet.co.uk) built the Front End for. Design was handled by the Libero Net design team and I was responsible for the functional JavaScript logic for the initial builds of the site. 
+
+This work included handling and manipulating data as well as constructing connector services and advanced functionality relating to the algorithms used to determine predicted tables, boards and scores. 
+
+The project was stored in DVCS and used to push out to a Staging Server before being Deployed to the Live Site. 
 
 ##[Campaign Tracker](http://osirisapp.com/about/)
 **Technologies Used:** *Django*
