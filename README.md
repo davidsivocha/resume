@@ -16,6 +16,7 @@ david@sivocha.com |
 |       **Libraries** | Redis, Devise, jQuery, Angular.js, SASS, LESS, Express    |
 | **Version Control** | Git                                                       |
 |       **Databases** | MySQL, PostgreSQL, MongoDB                                |
+|    **Applications** | WordPress, PrestaShop, Magento                            |
 
 ### Experience
 
@@ -38,7 +39,13 @@ UK Fuels Limited is a Fuel Card company that provides commercial rate fuel to bu
 
 I worked with them in their Sales Department, to build a new Sales Agent Management system that is designed to allow the Management and Admin staff to enter agent statistics and generate reports for performance based on that data.
 
-My role also includes day to day technical support.
+My role also included day to day technical support.
+
+### Certifications
+PrestaShop Developer
+PrestaShop Advanced Developer
+PrestaShop Integrations Expert
+CCNA
 
 ### For Fun
 
