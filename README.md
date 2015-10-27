@@ -20,8 +20,11 @@ david@sivocha.com |
 
 ### Experience
 
+#### uCribs, Senior Platform Engineer
+*October 2014 - Present*
+
 #### Libero Net Web Design, Lead Developer
-*August 2013 - Present*
+*August 2013 - October 2014*
 
 Lead Web Developer working with PHP, MySQL, Ruby on Rails and Javascript. Responsible for creation and deployment of most back end functionality of projects at Libero Net. Also responsible for training our Development interns and managing the server environments (Primarily Linux based Servers using Apache2 with MySQL).
 
