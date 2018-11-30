@@ -10,3 +10,37 @@
     In the background there are a series of message queues that help process data. They also form the core of a feedback loop for machine learning to help drive credit decisions. 
     
     I enjoy getting to know all the areas of our app, which allows me to be the person to go to for system knowledge. I deal with managing a team, helping my staff learn and providing insight on a day to day basis. I also love looking for areas to improve our app and make it more performant and better for our users.
+
+- company: Samarkand Global
+  link: samarkand.global
+  job_title: Senior Platform Engineer
+  dates: November 2016 - April 2018
+  description: | # this will include new lines to allow paragraphs
+    temp
+
+- company: uCribs
+  link: ucribs.com
+  job_title: Senior Platform Engineer
+  dates: November 2014 - November 2016
+  description: | # this will include new lines to allow paragraphs
+    temp
+
+- company: Libero Net
+  link: liberonet.co.uk
+  job_title: Lead Developer
+  dates: August 2013 - November 2014
+  description: | # this will include new lines to allow paragraphs
+    temp
+
+- company: Freelance
+  job_title: Web Developer
+  dates: October 2012 - August 2013
+  description: | # this will include new lines to allow paragraphs
+    temp
+
+- company: UK Fuels
+  link: ukfuels.co.uk
+  job_title: System Developer
+  dates: October 2011 - October 2012
+  description: | # this will include new lines to allow paragraphs
+    temp
