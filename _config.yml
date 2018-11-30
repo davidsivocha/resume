@@ -26,6 +26,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's David and I'm a senior platform engineer. As well as managing systems I also develop web apps. I have worked at a number of companies gaining teamwork and leadership skills and constantly learning new development and administration techniques.
 
+  When I'm not working, or learning new techniques, I enjoy spending my free time <mark>running</mark>, <mark>reading</mark> or <mark>Blacksmithing</mark>. I'm also an avid amateur photographer.
+
   I am most skilled in: <mark>Laravel</mark> and <mark>AWS Management</mark>
 
 # Projects Section
@@ -38,12 +40,12 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Climbing
-   - Gaming
-   - Knitting
+# more_title: A Little More About Me
+# more_content: | # this will include new lines to allow paragraphs
+#   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#   - Climbing
+#   - Gaming
+#   - Knitting
 
 # Footer
 footer_show_references: true
