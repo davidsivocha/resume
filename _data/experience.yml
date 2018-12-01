@@ -36,7 +36,9 @@
   job_title: Web Developer
   dates: October 2012 - August 2013
   description: | # this will include new lines to allow paragraphs
-    temp
+    I worked freelance for over a year, providing web application development services. During this time I worked on backend applications. These were generally <mark>Laravel</mark> applications.
+
+    I was responsible for managing time, invoices and client communication. I handled design and specification of applications to best suit client needs.
 
 - company: UK Fuels
   link: ukfuels.co.uk
@@ -45,7 +47,7 @@
   description: | # this will include new lines to allow paragraphs
     UK Fuels Limited is a Fuel Card company that provides commercial rate fuel to business.
 
-    I worked with them to create a Sales Agent Management System based on the Django Framework. It is a Python app that allows management staff to enter statistics on sales agents. The statistics are then used to generate reports on a regular basis. 
+    I worked with them to create a Sales Agent <mark>Management System</mark> based on the <mark>Django Framework</mark>. It is a <mark>Python</mark> app that allows management staff to enter statistics on sales agents. The statistics are then used to generate reports on a regular basis. 
 
     It features views to show different statistics to different user groups. This includes showing sales agents calculated commission based on their sales volume. 
 
