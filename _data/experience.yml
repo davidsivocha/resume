@@ -43,4 +43,12 @@
   job_title: System Developer
   dates: October 2011 - October 2012
   description: | # this will include new lines to allow paragraphs
-    temp
+    UK Fuels Limited is a Fuel Card company that provides commercial rate fuel to business.
+
+    I worked with them to create a Sales Agent Management System based on the Django Framework. It is a Python app that allows management staff to enter statistics on sales agents. The statistics are then used to generate reports on a regular basis. 
+
+    It features views to show different statistics to different user groups. This includes showing sales agents calculated commission based on their sales volume. 
+
+    The application makes use of migrations to control the data models.
+
+    I also provided day to day tech support for the sales and admin team.
