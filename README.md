@@ -46,8 +46,11 @@ My role also included day to day technical support.
 
 ### Certifications
 PrestaShop Developer
+
 PrestaShop Advanced Developer
+
 PrestaShop Integrations Expert
+
 CCNA
 
 ### For Fun
