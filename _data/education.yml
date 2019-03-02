@@ -11,3 +11,9 @@
     At Wakefield College, I learned various programming and technical support disciplines. These provided me with a solid framework for further study in the field. 
 
     I spent a lot of my free time learning more programming languages, as well as taking on freelance work.
+    
+- name: Shavington High School
+  dates: 2001 - 2006
+  qualification: 10 GCSEs, Grade A-C including Maths and English
+  description: | # this will include new lines to allow paragraphs
+    My high school eduction. Core competencies in Maths, English, Science and IT.
