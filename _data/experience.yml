@@ -30,7 +30,13 @@
   job_title: Lead Developer
   dates: August 2013 - November 2014
   description: | # this will include new lines to allow paragraphs
-    temp
+    Libero Net is a Web Development Agency that I worked for as the lead developer primarily working with <mark>Wordpress</mark>, <mark>Laravel</mark> and <mark>Prestashop</mark>.
+    
+    My primary responsibility was for the creation, management and development of Applications for clients, primarily related to back end development working alongside front end developers.
+    
+    While doing this I also developed numerous <mark>Wordpress Plugins</mark> that Libero Net was able to use for a multitude of their clients speeding up the development process. 
+    
+    As a secondary responsibility, I was responsible for managing the server environments for both existing clients and new clients.
 
 - company: Freelance
   job_title: Web Developer
