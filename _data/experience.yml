@@ -23,7 +23,15 @@
   job_title: Senior Platform Engineer
   dates: November 2014 - November 2016
   description: | # this will include new lines to allow paragraphs
-    temp
+    I was responsible for converting a <mark>Wordpress</mark> site into a more fully featured <mark>Laravel</mark> Application, optimising the Database, and improving functionality with new features. 
+    
+    Part of this was using Haversine formula for managing rapid lookups in the Database for Properties within certain radiuses (assisted with using bounding boxes to create subsets of data). 
+    
+    The redevelopment of the uCribs site was supported with a <mark>Bootstrap</mark> based frontend that used <mark>KnockoutJS</mark> to handle front end interface. KnockoutJS was used to provide <mark>Single Page Application</mark> style interaction on the site.
+    
+    I was also responsible for managing the site on a fully load balanced <mark>AWS</mark> using OpsWorks with custom written <mark>Chef</mark> recipies to control application deployment and rollout.
+    
+    Development of the application also included implementing <mark>Stripe</mark> and <mark>Mandrill</mark> including creation of webhook handlers to manage inbound data.
 
 - company: Libero Net
   link: liberonet.co.uk
