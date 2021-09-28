@@ -1,19 +1,19 @@
 - company: DivideBuy - Interest Free Credit
   link: dividebuy.co.uk
   job_title: Lead Developer
-  dates: April 2018 - Present
+  dates: April 2018 - August 2021
   description: | # this will include new lines to allow paragraphs
-    I currently work at DivideBuy, helping them rebuild, refactor and improve their <mark>FinTech</mark> application. I lead a multi-national team of circa 30 developers, QA testers and Business Analysts. I help drive the team and decide the direction and structure of the technology stack, as well as providing mentorship to developers in the Department. 
+    During my time working at DivideBuy, I helped them rebuild, refactor and improve their <mark>FinTech</mark> application. I led a multi-national team of circa 30 developers, QA testers and Business Analysts. I helped drive the team and decide the direction and structure of the technology stack, as well as providing mentorship to developers in the Department. 
     
-    I spend my time working on developing <mark>Microservices</mark> in the <mark>Laravel</mark> and <mark>Lumen</mark> <mark>PHP</mark> frameworks. The application consists of several <mark>Angular</mark> and <mark>VueJS</mark> frontends that talk to a series of APIs to provide smooth and seemless user journeys.
+    I spent my time working on developing <mark>Microservices</mark> in the <mark>Laravel</mark> and <mark>Lumen</mark> <mark>PHP</mark> frameworks. The application consists of several <mark>Angular</mark> and <mark>VueJS</mark> frontends that talk to a series of APIs to provide smooth and seemless user journeys.
     
     In the background there are a series of message queues that help process data. They also form the core of a feedback loop for machine learning to help drive credit decisions. My team has recently helped moved the application stack to an <mark>Event-sourced</mark> pattern of working. 
     
-    I have enjoyed getting to know all the areas of our software estate, which allows me to be the person to go to for system knowledge. I deal with managing a team, helping my staff learn and providing insight on a day to day basis. I also love looking for areas to improve our applications and make them more performant for our users as well as improving the <mark>UX</mark>.
+    I have enjoyed getting to know all the areas of our software estate, which allows me to be the person to go to for system knowledge. I dealt with managing a team, helping my staff learn and providing insight on a day to day basis. I also looked for areas to improve our applications and make them more performant for our users as well as improving the <mark>UX</mark>.
     
-    During my time here I have also been instrumental in assisting with out of hours support organisation as required and in working on key infrastructure components such as our <mark>AWS</mark> stack.
+    During my time here I have also been instrumental in assisting with out of hours support organisation as required and in working on key infrastructure components such as the <mark>AWS</mark> stack.
     
-    I have also lead the project that has seen DivideBuy change from a more Waterfall orientated pattern of development, to more <mark>Agile</mark> working practices that includes the incorporation of <mark>CI/CD</mark> pipelines and automatic quality assurance tools, as well as a transition to container driven environments using <mark>Docker</mark> running on <mark>Kubernetes</mark> to provide easily replicated environments for Developers and Testers to work in.
+    I also led the project that has seen DivideBuy change from a more Waterfall orientated pattern of development, to more <mark>Agile</mark> working practices that includes the incorporation of <mark>CI/CD</mark> pipelines and automatic quality assurance tools, as well as a transition to container driven environments using <mark>Docker</mark> running on <mark>Kubernetes</mark> to provide easily replicated environments for Developers and Testers to work in.
 
 - company: Samarkand Global
   link: samarkand.global
