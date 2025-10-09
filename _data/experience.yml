@@ -1,4 +1,5 @@
 - company: Lateral Technology
+  border: weak
   link: https://getlateral.com/
   job_title: CTO
   dates: September 2024 - Present
@@ -14,6 +15,7 @@
     The platform operates on <mark>PHP</mark> (Lithium framework), <mark>MySQL</mark>, <mark>NGINX</mark>, and <mark>PHP-FPM</mark> within <mark>AWS</mark>, supporting a growing base of enterprise clients with complex data and workflow automation requirements.
 
 - company: CrowdProperty
+  border: weak
   link: https://www.crowdproperty.com
   job_title: Head of Engineering
   dates: August 2021 - September 2024
@@ -27,6 +29,7 @@
     A core part of my role involved mentoring engineers and leading cross-departmental training to drive better delivery practices and improve collaboration between product and engineering. I was also part of the senior leadership team, bridging technology and business strategy to support investor management and regulatory oversight.
 
 - company: DivideBuy - Interest Free Credit
+  border: weak
   link: dividebuy.co.uk
   job_title: Lead Developer
   dates: April 2018 - August 2021
@@ -40,6 +43,7 @@
     As a technical and people leader, I focused on mentorship, system performance, and application reliability, ensuring teams were equipped to deliver high-quality, customer-focused products.
 
 - company: Samarkand Global
+  border: weak
   link: samarkand.global
   job_title: Senior Platform Engineer
   dates: November 2016 - April 2018
@@ -49,6 +53,7 @@
     I managed server environments hosted on <mark>Alibaba Cloud</mark> (the regional equivalent of <mark>AWS</mark>), ensuring uptime, patching, and performance. The role also included maintaining <mark>Laravel</mark> components and providing infrastructure support for third-party clients such as Black Spark Media and Connect365.
 
 - company: uCribs
+  border: weak
   link: ucribs.com
   job_title: Senior Platform Engineer
   dates: November 2014 - November 2016
@@ -58,6 +63,7 @@
     Managed a fully load-balanced <mark>AWS</mark> infrastructure using <mark>OpsWorks</mark> and custom <mark>Chef</mark> recipes, integrating third-party services like <mark>Stripe</mark> and <mark>Mandrill</mark> for payment and email automation.
 
 - company: Libero Net
+  border: weak
   link: liberonet.co.uk
   job_title: Lead Developer
   dates: August 2013 - November 2014
