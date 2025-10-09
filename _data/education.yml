@@ -1,10 +1,12 @@
 - name: Staffordshire University
+  layout: top
   dates: 2009 - 2011
   qualification: CCNA, Degree of Education in Computer Networks and Security
   description: | # this will include new lines to allow paragraphs
     I completed a two year Degree of Education at Staffordshire University, and acquired a CCNA.
 
 - name: Wakefield College
+  layout: top
   dates: 2007 - 2009
   qualification: BTEC National Diploma for IT Practitioners (Systems Support), Triple Distinction
   description: | # this will include new lines to allow paragraphs
@@ -13,6 +15,7 @@
     I spent a lot of my free time learning more programming languages, as well as taking on freelance work.
     
 - name: Shavington High School
+  layout: top
   dates: 2001 - 2006
   qualification: 10 GCSEs, Grade A-C including Maths and English
   description: | # this will include new lines to allow paragraphs
