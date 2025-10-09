@@ -1,4 +1,5 @@
 - company: Lateral Technology
+  layout: top
   border: weak
   link: https://getlateral.com/
   job_title: CTO
@@ -15,6 +16,7 @@
     The platform operates on <mark>PHP</mark> (Lithium framework), <mark>MySQL</mark>, <mark>NGINX</mark>, and <mark>PHP-FPM</mark> within <mark>AWS</mark>, supporting a growing base of enterprise clients with complex data and workflow automation requirements.
 
 - company: CrowdProperty
+  layout: top
   border: weak
   link: https://www.crowdproperty.com
   job_title: Head of Engineering
@@ -29,6 +31,7 @@
     A core part of my role involved mentoring engineers and leading cross-departmental training to drive better delivery practices and improve collaboration between product and engineering. I was also part of the senior leadership team, bridging technology and business strategy to support investor management and regulatory oversight.
 
 - company: DivideBuy - Interest Free Credit
+  layout: top
   border: weak
   link: dividebuy.co.uk
   job_title: Lead Developer
@@ -43,6 +46,7 @@
     As a technical and people leader, I focused on mentorship, system performance, and application reliability, ensuring teams were equipped to deliver high-quality, customer-focused products.
 
 - company: Samarkand Global
+  layout: top
   border: weak
   link: samarkand.global
   job_title: Senior Platform Engineer
@@ -53,6 +57,7 @@
     I managed server environments hosted on <mark>Alibaba Cloud</mark> (the regional equivalent of <mark>AWS</mark>), ensuring uptime, patching, and performance. The role also included maintaining <mark>Laravel</mark> components and providing infrastructure support for third-party clients such as Black Spark Media and Connect365.
 
 - company: uCribs
+  layout: top
   border: weak
   link: ucribs.com
   job_title: Senior Platform Engineer
@@ -63,6 +68,7 @@
     Managed a fully load-balanced <mark>AWS</mark> infrastructure using <mark>OpsWorks</mark> and custom <mark>Chef</mark> recipes, integrating third-party services like <mark>Stripe</mark> and <mark>Mandrill</mark> for payment and email automation.
 
 - company: Libero Net
+  layout: top
   border: weak
   link: liberonet.co.uk
   job_title: Lead Developer
@@ -71,6 +77,7 @@
     Lead Developer for a web agency delivering bespoke client solutions in <mark>WordPress</mark>, <mark>Laravel</mark>, and <mark>Prestashop</mark>. Built and maintained reusable <mark>WordPress Plugins</mark> and managed client hosting environments. 
 
 - company: Freelance / UK Fuels
+  layout: top
   job_title: Web Developer / Systems Developer
   dates: October 2011 - August 2013
   description: | 
