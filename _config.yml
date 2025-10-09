@@ -4,7 +4,7 @@ repository: davidsivocha/resume
 
 # Personal info
 name: David Sivocha
-title: CTO
+title: Hands-on CTO | Engineering Leader | PHP & AWS Specialist
 email: david@sivocha.com
 website: www.sivocha.com
 
@@ -24,11 +24,14 @@ linkedin_username: davidsivocha
 # about_title: About Me
 about_profile_image: images/Dave-Sivocha.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's David and I'm a CTO. As well as managing systems and software teams, I develop software applications. I have worked at a number of companies gaining teamwork and leadership skills and constantly learning new development and administration techniques.
+  Hi, my name’s David and I’m a <mark>CTO</mark> and hands-on technology leader. I specialise in building and scaling engineering teams, developing high-performing software platforms, and shaping technical strategy that aligns with business growth. Alongside managing systems and software teams, I stay closely involved in code, architecture, and DevOps — ensuring technical excellence and operational stability across every layer of the stack.
 
-  When I'm not working, or learning new techniques, I enjoy spending my free time <mark>running</mark>, <mark>reading</mark> or <mark>Blacksmithing</mark>. I'm also an avid amateur photographer.
+  Over my career I’ve worked across multiple sectors, particularly <mark>FinTech</mark> and <mark>SaaS</mark>, leading teams across the UK, North America, and Asia. I’m passionate about mentoring engineers, driving <mark>Agile</mark> culture, and delivering robust, scalable systems in <mark>AWS</mark> and <mark>Laravel</mark>-based environments.
 
-  I am most skilled in: <mark>Laravel</mark> and <mark>AWS Management</mark>
+  When I’m not building platforms or leading teams, I enjoy <mark>running</mark>, <mark>reading</mark>, and <mark>Blacksmithing</mark>, and I’m also an avid amateur photographer.
+
+  I am most skilled in: <mark>Laravel</mark>, <mark>AWS Management</mark>, and <mark>Technical Leadership</mark>
+
 
 # Projects Section
 # projects_title: Projects
