@@ -1,9 +1,18 @@
+- company: Payment Assist
+  layout: top
+  border: weak
+  link: https://www.payment-assist.co.uk
+  job_title: CTO
+  dates: February 2026 - Present
+  description: | 
+    Payment Assist
+
 - company: Lateral Technology
   layout: top
   border: weak
   link: https://getlateral.com/
   job_title: CTO
-  dates: September 2024 - Present
+  dates: September 2024 - February 2026
   description: | 
     Lateral Technology is a <mark>SaaS</mark> platform providing automated workflow, decisioning, and financial management tools for clients in the <mark>Collections</mark> and <mark>Legal</mark> sectors. The Lateral Platform streamlines operational processes to allow agencies to focus on meaningful customer engagement and outcomes. 
 
